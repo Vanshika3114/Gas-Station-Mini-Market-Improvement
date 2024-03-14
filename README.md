@@ -24,5 +24,7 @@ By focusing on resolving key issues identified through Pareto analysis, such as 
 - **GitHub**: Repository for storing project files and documentation.
 
 ## Screenshots
+![Gas Station Mini Market Improvement](https://github.com/Vanshika3114/Gas-Station-Mini-Market-Improvement/blob/main/image_2024-03-14_15-13-59.png)
+
 Attach screenshots of Pareto chart and relevant Excel analysis in the GitHub repository for reference.
 
